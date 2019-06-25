@@ -1,0 +1,12 @@
+managemnet:
+  security:
+    enabled: false
+    
+spring:
+  application:
+    name: config-server-client
+  cloud:
+    config:
+      uri: http://localhost:8888
+  profiles:
+    active: development
