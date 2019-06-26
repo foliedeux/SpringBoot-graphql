@@ -1,0 +1,10 @@
+type Query{
+	getAllTopics: [Topics]
+	findTopic(id: ID):	Topics
+}
+
+type Topics{
+	id: ID
+	name: String
+	description: String
+}

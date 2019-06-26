@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Piyush
+Build-Jdk: 10.0.2
+Implementation-Title: course-api-data-mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api-data-mysql
+Created-By: Maven Integration for Eclipse
+
